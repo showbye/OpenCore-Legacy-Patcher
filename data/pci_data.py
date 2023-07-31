@@ -1099,6 +1099,7 @@ class broadcom_ids:
 
     AirPortBrcmNIC = [
         # AirPortBrcmNIC IDs
+        0x43B1,  # BCM4352
         0x43BA,  # BCM43602
         0x43A3,  # BCM4350
         0x43A0,  # BCM4360
